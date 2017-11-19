@@ -224,3 +224,6 @@ votemMachbarkeit/machbarkeit.pdf
 
 # ignore lof files
 *.lof
+
+# ignore pdf files for this porpuse
+.pdf
