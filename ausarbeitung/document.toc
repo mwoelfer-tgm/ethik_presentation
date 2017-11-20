@@ -1,0 +1,35 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Allgemein}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Definition}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Klassifizierungen}{1}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Klassisch vs Elektronisch}{1}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Bundesamt f\IeC {\"u}r Sicherheit der Informationstechnik}{1}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Zahlungsm\IeC {\"o}glichkeiten}{1}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Kategorisierung nach Einsatzort}{1}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Kategorisierung nach Betragsh\IeC {\"o}he}{2}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Kategorisierung nach Herkunft}{2}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Kategorisierung nach H\IeC {\"a}ufigkeit}{2}{subsubsection.1.3.4}
+\contentsline {subsection}{\numberline {1.4}Anforderungen der Zahlungspflichtigen}{2}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Sicherheit}{2}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Installations- bzw. Registrierungsaufwand}{3}{subsubsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.3}Kosten}{3}{subsubsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.4}Akzeptanzstellen}{3}{subsubsection.1.4.4}
+\contentsline {subsection}{\numberline {1.5}Anforderungen der Zahlungsempf\IeC {\"a}nger}{3}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}Sicherheit}{3}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}Akzeptanz der Kunden}{3}{subsubsection.1.5.2}
+\contentsline {subsubsection}{\numberline {1.5.3}Kosten}{3}{subsubsection.1.5.3}
+\contentsline {section}{\numberline {2}Verschiedene Zahlungssysteme}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Herk\IeC {\"o}mmliche Zahlsysteme}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Definition}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Barzahlung}{4}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}\IeC {\"U}berweisung}{5}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Nachnahme}{5}{subsubsection.2.1.4}
+\contentsline {subsection}{\numberline {2.2}Moderne Zahlsysteme}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Zahlungsabwicklung}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Kategorien}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Anstieg der Popularit\IeC {\"a}t}{7}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Kryptow\IeC {\"a}hrungen}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Allgemeines}{7}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Umsetzung}{7}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Gefahren}{8}{subsubsection.2.3.3}
+\contentsline {section}{\numberline {3}Quellen}{8}{section.3}

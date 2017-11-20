@@ -2,4 +2,20 @@
 
 \subsection{Kryptowährungen}
 \subsubsection{Allgemeines}
-\subsubsection{kek}
+Kryptowährung ist ein digitales Zahlungsmittel. Dabei wird Kryptographie angewandt. Es handelt sich um ein verteiltes, dezentrales und sicheres Zahlungsmittel. Dabei gibt es keine zentrale Anlaufstelle, welche dieses Zahlungsmittel in irgendeiner Weise reguliert. Die erste veröffentlichte Kryptowährung, mit der gehandelt werden kann ist Bitcoin (seit 2009). Mittlerweile gibt es über 3000 Kryptowährungen.
+\subsubsection{Umsetzung}
+Von der Umsetzung unterscheiden sich die unterschiedlichen Kryptwährungen nicht wirklich. Sie haben einen gemeinsamen Aufbau und nur die Umsetzung im Detail variiert gelegentlich.\\
+
+Die Teilnehmer kommunizieren in einem P2P-Netz (Peer to Peer). Dabei wird jede Nachricht die man absendet an jeden User gesendet (indem man es weiterreicht, nicht über Broadcast).
+Jeder Teilnehmer erzeugt einen Schlüsselpaar (private und public) durch ein Kryptosystem (im besten Fall asymmetrisch). Der öffentliche Key wird an das Netzwerk gesendet und dient als Kontonummer. Der private Key gilt als Berechtigungskey (um Transaktionen zu signieren,...). Mit diesem Schlüsselpaar eröffnet man sozusagen ein Konto. Da ein Teilnehmer eine unbegrenzte Anzahl an Schlüsselpaaren generieren kann, werden diese in einem \textbf{Wallet} gespeichert.\\
+
+Die Buchhaltung in Kryptowährungen wird in sogenannten \textbf{Blockchains} umgesetzt. Blockchains bestehen aus Datenblöcken die jeweils ihren Vorgänger referenzieren und somit eine Kette bilden. Jeder Teilnehmer der einen neuen Block hinzufügt, referenziert den Vorgänger, fügt neu angefallene Transaktionen hinzu und bestätigt bereits angefallene Transaktionen. Außerdem darf er eine Transaktion aus dem Nichs auf sein Konto eintragen. Man wird also für das Erhalten der dezentralisierten Datenbank vom System belohnt. Aus diesem Grund möchten viele User sehr viele neue Blöcke erstellen (\textbf{Mining}). Damit nicht zu viele neue Blöcke das System auslasten, werden die Blöcke mit einem Schwierigkeitsgrad versehen. Es muss eine kryptologische Hashfunktion als Einwegfunktion berrechnet werden, die gewissen Regeln entschpricht (meist Grenzwerte). Es entsteht beim Blockchain keine eindeutige Kette, sondern vielmehr ein Baum. Dabei ist die längste geprüfte und bestätigte Kette vom Anfangsblock (Genesis Block) aus die gültige Kette und somit die korrekte Buchhaltung. \\
+
+Um das System nicht zu überlasten bzw. einen DOS-Attack vorzubeugen, wird bei jeder Transaktion eine Transaktionsgebühr eingehoben.
+
+\subsubsection{Gefahren}
+Kryptowährungen haben, wie alle anderen Lösungen die mit Software betrieben werden, die Gefahr vor Softwarefehlern. So wurde am 15. August 2010 eine Überweisung mit 184 Milliarden BTC getätigt, obwohl nie mehr als 21 Millionen BTC existieren sollten.\\
+
+Eine andere Gefahr liefert die sogenannte \textbf{51\%-Attacke}. Diese würde Zustande kommen, wenn ein Zusammenschluss von Organisationen ihre Rechenleistung vereinen und somit über 50\% der Rechenleistung erreichen. Damit könnten sie die Kryptowährung manipulieren. Dies ist äußerst problematisch da das eigentliche Proof-of-work-Konzept dazu gedacht war, die Kontrolle der Währung gleichmäßig über die CPUs welweit zu verteilen.\\
+
+Eine persöhnlich sehr schmerzhafte Gefahr liegt beim Datenverlust oder Diebstahl. Da Transaktionen nie rückgängig gemacht werden können, ist der User für sein eigenes Wohl zuständig, darauf zu achten alle Daten korrekt einzugeben. Verliert man auch den geheimem private Key, ist der einzige Zugang zum bestehenden Konto und somit auch zum Geld verloren und kann nicht wiederhergestellt werden. Deshalb ist die tatsächlich handelbare Geldmenge nicht bekannt.
