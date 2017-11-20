@@ -4,8 +4,8 @@
 \contentsline {subsection}{\numberline {1.2}Klassifizierungen}{1}{subsection.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1}Klassisch vs Elektronisch}{1}{subsubsection.1.2.1}
 \contentsline {subsubsection}{\numberline {1.2.2}Bundesamt f\IeC {\"u}r Sicherheit der Informationstechnik}{1}{subsubsection.1.2.2}
-\contentsline {subsection}{\numberline {1.3}Zahlungsm\IeC {\"o}glichkeiten}{1}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Kategorisierung nach Einsatzort}{1}{subsubsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3}Zahlungsm\IeC {\"o}glichkeiten}{2}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Kategorisierung nach Einsatzort}{2}{subsubsection.1.3.1}
 \contentsline {subsubsection}{\numberline {1.3.2}Kategorisierung nach Betragsh\IeC {\"o}he}{2}{subsubsection.1.3.2}
 \contentsline {subsubsection}{\numberline {1.3.3}Kategorisierung nach Herkunft}{2}{subsubsection.1.3.3}
 \contentsline {subsubsection}{\numberline {1.3.4}Kategorisierung nach H\IeC {\"a}ufigkeit}{2}{subsubsection.1.3.4}
@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {1.5}Anforderungen der Zahlungsempf\IeC {\"a}nger}{3}{subsection.1.5}
 \contentsline {subsubsection}{\numberline {1.5.1}Sicherheit}{3}{subsubsection.1.5.1}
 \contentsline {subsubsection}{\numberline {1.5.2}Akzeptanz der Kunden}{3}{subsubsection.1.5.2}
-\contentsline {subsubsection}{\numberline {1.5.3}Kosten}{3}{subsubsection.1.5.3}
+\contentsline {subsubsection}{\numberline {1.5.3}Kosten}{4}{subsubsection.1.5.3}
 \contentsline {section}{\numberline {2}Verschiedene Zahlungssysteme}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}Herk\IeC {\"o}mmliche Zahlsysteme}{4}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Definition}{4}{subsubsection.2.1.1}
@@ -32,4 +32,15 @@
 \contentsline {subsubsection}{\numberline {2.3.1}Allgemeines}{7}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}Umsetzung}{7}{subsubsection.2.3.2}
 \contentsline {subsubsection}{\numberline {2.3.3}Gefahren}{8}{subsubsection.2.3.3}
-\contentsline {section}{\numberline {3}Quellen}{8}{section.3}
+\contentsline {section}{\numberline {3}Ethische Fragestellungen}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Microtransactions}{9}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Sachverhalt}{9}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Fragestellung}{9}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Anonymit\IeC {\"a}t}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Sachverhalt}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Fragestellung}{9}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Unreguliertes Zahlungssystem}{9}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Sachverhalt}{9}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Fragestellung}{9}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Pr\IeC {\"u}fungsfragen}{10}{section.4}
+\contentsline {section}{\numberline {5}Quellen}{10}{section.5}
